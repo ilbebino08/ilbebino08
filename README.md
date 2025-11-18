@@ -1,7 +1,3 @@
-# 💫 About Me:
-<br>🌱 I’m currently learning Java and C++<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bellanditommaso_) 
 
